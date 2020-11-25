@@ -1,0 +1,1 @@
+# djangoproject-password-generator
